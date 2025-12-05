@@ -1,7 +1,8 @@
-# Required Assignment 11.1 – What Drives the Price of a Car?
+# ML-AI-Berkeley-Assignment-11.1 
 
-UC Berkeley Professional Certificate in Machine Learning & AI  
-Practical Application – Used Car Price Modeling
+Link to Jupyter notebook: https://github.com/nagendraprasads/ML-AI-Berkeley-Assignment-11.1/blob/main/prompt_II.ipynb
+
+## Assignment 11.1: What Drives the Price of a Car?
 
 ## 1. Project Overview
 
