@@ -97,7 +97,7 @@ Each model was evaluated on both the **training set** and a held-out **test set*
   - Similar or slightly better RMSE and R² compared to the baseline  
   - Reduced overfitting due to regularization
 
-- **Lasso Regression (best alpha = 0.001)**  
+- **Lasso Regression (best alpha = 0.01) subset**  
   - Comparable performance to Ridge  
   - Produced a **sparser model**, highlighting a smaller set of the most important features
 
