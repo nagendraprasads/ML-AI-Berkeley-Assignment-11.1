@@ -156,7 +156,7 @@ For a non-technical dealership audience:
 ## 7. Repository Structure
 
 - `prompt_II.ipynb` – Main Jupyter notebook with all analysis and modeling  
-- `vehicles.csv.zip` – Compressed input data (from Kaggle)  
+- `vehicles.csv.zip` – Compressed input data vehicles.csv (from Kaggle)  
 - `README.md` – This project summary and documentation  
 
 ---
@@ -164,7 +164,7 @@ For a non-technical dealership audience:
 ## 8. How to Run
 
 1. Clone the repository or download the files.
-2. Unzip the vehicles.csv.zip
+2. Unzip the data.zip
 3. Install Python dependencies (e.g., using `pip`):
 
    ```bash
